@@ -1,4 +1,4 @@
-1. Start :
+1.Start :
 
 install pip env by requirements.txt
 
