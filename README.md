@@ -8,5 +8,5 @@ train and test by 'bash scripts/xxx.sh'. Additionally, you can directly check th
 
 (2) Visualization results on Traffic dataset:
 
-we show the same prediction window for the latest three variables. The green circle marks the inaccurate prediction of baselines. Among them, the green circle for 861-th variable indicates that the baselines could not predict the detailed fluctuations while SPM could. Considering the rerults across all three variables, SPM predicts more accurately than these SOTA methods overall. This demonstrates the effectiveness of SPM.
+we show the same prediction window T=96 for the latest three variables. The green circle marks the inaccurate prediction of baselines. Among them, the green circle for 861-th variable indicates that the baselines could not predict the detailed fluctuations while SPM could. Considering the rerults across all three variables, SPM predicts more accurately than these SOTA methods overall. This demonstrates the effectiveness of SPM.
 ![Image text](visible.jpg)
