@@ -1,6 +1,6 @@
 (1) Introduction:
 
-SPM projects the input signal into Q, K, and V for auto-correlation calculation, extending it to deep learning for parameterized learning and enhanced non-linear expression ability. In the frequency domain, Q and K are first multiplied, which represents the auto-correlation calculation in the time domain. Then, the result is multiplied by V, which corresponds to the weighted integrating the auto-correlation scores with the input signal through convolution in the time domain, enabling adaptive attention to different parts of the input signal.
+SPM projects the input signal into Q, K, and V for auto-correlation calculation, extending it to deep learning for parameterized learning and enhanced non-linear expression ability. In the frequency domain, Q and K are first multiplied, which represents the auto-correlation calculation in the time domain. Then, the result is multiplied by V, which corresponds to the weighted integration of the auto-correlation scores with the input signal through convolution in the time domain, enabling adaptive attention to different parts of the input signal.
 
 (2) Start :
 
