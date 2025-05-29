@@ -6,4 +6,4 @@ Obtain the Weather, Exchange_rate, ILI, ETT, Traffic, and Electricity benchmarks
 
 Train and test GSPM by 'bash scripts/xxx.sh'. You can directly check the main results reported in the paper by the logs in the directory named 'results on 3090GPU' or the txt named 'result.txt'. Additionally, for SPM without generalization, please replace the context of SPM_backbone.py with that of the SPM_backbone_non-generalized.py
 
-![图片描述](show-case.png)
+![图片描述](show-case.jpg)
