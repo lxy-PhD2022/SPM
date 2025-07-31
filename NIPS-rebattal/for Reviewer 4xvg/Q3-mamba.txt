@@ -1,0 +1,48 @@
+ETTh1 -> ETTh2
+ETTh2_96_96_S_Mamba_ETTh2_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.29348912835121155, mae:0.3422667384147644
+
+ETTh1 -> ETTm1
+ETTm1_96_96_S_Mamba_ETTm1_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.9366228580474854, mae:0.5987374186515808
+
+ETTh1 -> ETTm2
+ETTm2_96_96_S_Mamba_ETTm2_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.23250722885131836, mae:0.3157620429992676
+
+ETTh2 -> ETTh1
+ETTh1_96_96_S_Mamba_ETTh1_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.5693774819374084, mae:0.5130543112754822
+
+ETTh2 -> ETTm1
+ETTm1_96_96_S_Mamba_ETTm1_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.9519089460372925, mae:0.6067059636116028
+
+ETTh2 -> ETTm2
+ETTm2_96_96_S_Mamba_ETTm2_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.23328374326229095, mae:0.31676754355430603
+
+ETTm1 -> ETTh1
+ETTh1_96_96_S_Mamba_ETTh1_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.8246049880981445, mae:0.595786988735199
+
+ETTm1 -> ETTh2
+ETTh2_96_96_S_Mamba_ETTh2_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.377495139837265, mae:0.40663930773735046
+
+ETTm1 -> ETTm2
+ETTm2_96_96_S_Mamba_ETTm2_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.20522668957710266, mae:0.2814894914627075
+
+ETTm2 -> ETTh1
+ETTh1_96_96_S_Mamba_ETTh1_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.6695880889892578, mae:0.5449363589286804
+
+ETTm2 -> ETTh2
+ETTh2_96_96_S_Mamba_ETTh2_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.33228617906570435, mae:0.37470999360084534
+
+ETTm2 -> ETTm1
+ETTm1_96_96_S_Mamba_ETTm1_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.5946560502052307, mae:0.4776729345321655
+

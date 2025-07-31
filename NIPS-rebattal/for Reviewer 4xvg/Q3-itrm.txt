@@ -1,0 +1,48 @@
+ETTh1 -> ETTh2
+ETTh2_96_96_iTransformer_ETTh2_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.29626649618148804, mae:0.34332752227783203
+
+ETTh1 -> ETTm1
+ETTm1_96_96_iTransformer_ETTm1_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.994872510433197, mae:0.621825098991394
+
+ETTh1 -> ETTm2
+ETTm2_96_96_iTransformer_ETTm2_M_ft96_sl48_ll96_pl256_dm8_nh2_el1_dl256_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.2388782948255539, mae:0.32103997468948364
+
+ETTh2 -> ETTh1
+ETTh1_96_96_iTransformer_ETTh1_M_ft96_sl48_ll96_pl128_dm8_nh2_el1_dl128_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.5775584578514099, mae:0.5151901841163635
+
+ETTh2 -> ETTm1
+ETTm1_96_96_iTransformer_ETTm1_M_ft96_sl48_ll96_pl128_dm8_nh2_el1_dl128_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:1.0170930624008179, mae:0.6288350820541382
+
+ETTh2 -> ETTm2
+ETTm2_96_96_iTransformer_ETTm2_M_ft96_sl48_ll96_pl128_dm8_nh2_el1_dl128_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.23555678129196167, mae:0.3192327320575714
+
+ETTm1 -> ETTh1
+ETTh1_96_96_iTransformer_ETTh1_M_ft96_sl48_ll96_pl128_dm8_nh2_el1_dl128_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.7071505188941956, mae:0.5560353398323059
+
+ETTm1 -> ETTh2
+ETTh2_96_96_iTransformer_ETTh2_M_ft96_sl48_ll96_pl128_dm8_nh2_el1_dl128_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.346253901720047, mae:0.3864378333091736
+
+ETTm1 -> ETTm2
+ETTm2_96_96_iTransformer_ETTm2_M_ft96_sl48_ll96_pl128_dm8_nh2_el1_dl128_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.20395977795124054, mae:0.2820667326450348
+
+ETTm2 -> ETTh1
+ETTh1_96_96_iTransformer_ETTh1_M_ft96_sl48_ll96_pl128_dm8_nh2_el1_dl128_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.8230385184288025, mae:0.6028247475624084
+
+ETTm2 -> ETTh2
+ETTh2_96_96_iTransformer_ETTh2_M_ft96_sl48_ll96_pl128_dm8_nh2_el1_dl128_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.3704984188079834, mae:0.400463730096817
+
+ETTm2 -> ETTm1
+ETTm1_96_96_iTransformer_ETTm1_M_ft96_sl48_ll96_pl128_dm8_nh2_el1_dl128_df1_fctimeF_ebTrue_dtExp_projection_0  
+mse:0.6923598051071167, mae:0.5176143050193787
+
