@@ -1,3 +1,6 @@
+Update:
+We upload the experimental results reported in NIPS-2025 rebuttal, you can check them in 'NIPS-rebuttal' folder.
+
 Start :
 
 Install pip env by requirements.txt
